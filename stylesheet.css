@@ -4,6 +4,7 @@ hopefully it will work as intended.*/
 body{
 	background: rgb(215,200,220);
 	font-family: times-new-roman;
+	text-align: center;
 }
 
 header{
@@ -13,5 +14,21 @@ header{
 }
 p{
 	color: blue;
-	font-size: 12px;
+	font-size: 16px;
+
+}
+img{
+	border-style: dashed;
+	border-width: medium;
+
+}
+ul{
+	list-style: georgian;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-color: rgb(57, 210, 5);
 }
