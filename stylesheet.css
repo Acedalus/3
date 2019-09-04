@@ -1,0 +1,16 @@
+/*This is supposed to be a css style sheet.
+hopefully it will work as intended.*/
+
+body{
+	background: rgb(215,200,220);
+	font-family: times-new-roman;
+}
+
+.header{
+	background-color: rgb(25, 50, 75);
+	color: red;
+	padding: 10px 10px;
+.p{
+	color: blue;
+	font-size: 12;
+}
